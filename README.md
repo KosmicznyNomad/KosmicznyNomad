@@ -1,16 +1,19 @@
-## Hi there 👋
+# Cześć, jestem Kosma.
 
-<!--
-**KosmicznyNomad/KosmicznyNomad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Buduję produkty AI — od kodu po sprzedaż.
 
-Here are some ideas to get you started:
+Najlepiej czuję się tam, gdzie trzeba zrozumieć ludzi, zaprojektować produkt i doprowadzić go do działania. Zaczynałem od własnych projektów jeszcze na studiach, a później współtworzyłem małe zespoły produktowe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Rzeczy, które zbudowałem
+
+- **JUTRO.AI (2024–2026)** — współtworzyłem platformę edukującą o sztucznej inteligencji. Pracowałem przy pomyśle, rozmowach z użytkownikami, produkcie i sprzedaży.
+- **Chat Heroes (2022–2024)** — jako CTO w pięcioosobowym zespole rozwijałem aplikację, która tworzyła bota dopasowanego do ucznia i prowadziła go przez materiał szkolny.
+- **BitBrains (2021–2022)** — narzędzie zamieniające notatki studentów w fiszki. Mój pierwszy projekt i pierwsze przychody.
+
+## Poza kodem
+
+Biegam maratony i ultra. Zacząłem, żeby schudnąć; zostało ze mną na dłużej.
+
+## Kontakt
+
+[Portfolio](https://kosma-zalewski-portfolio.kosma-komunikacja.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/kosmazalewski)
