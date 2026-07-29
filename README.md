@@ -1,16 +1,16 @@
 # Cześć, jestem Kosma.
 
-Buduję produkty AI — od kodu po sprzedaż.
+Pracuję jako **AI & Data Lead w Bukat**. Buduję produkty AI — od kodu po sprzedaż.
 
-Najlepiej czuję się tam, gdzie trzeba zrozumieć ludzi, zaprojektować produkt i doprowadzić go do działania. Zaczynałem od własnych projektów jeszcze na studiach, a później współtworzyłem małe zespoły produktowe.
+Najlepiej czuję się na styku **AI, danych i produktu**. Lubię najpierw zrozumieć problem i ludzi, którzy go mają, a później doprowadzić rozwiązanie do działania. Poza kodem zajmowałem się więc także rozmowami z użytkownikami, kierunkiem produktu i sprzedażą.
 
-## Rzeczy, które zbudowałem
+## Wcześniej
 
-- **JUTRO.AI (2024–2026)** — współtworzyłem platformę edukującą o sztucznej inteligencji. Pracowałem przy pomyśle, rozmowach z użytkownikami, produkcie i sprzedaży.
-- **Chat Heroes (2022–2024)** — jako CTO w pięcioosobowym zespole rozwijałem aplikację, która tworzyła bota dopasowanego do ucznia i prowadziła go przez materiał szkolny.
-- **BitBrains (2021–2022)** — narzędzie zamieniające notatki studentów w fiszki. Mój pierwszy projekt i pierwsze przychody.
+- **JUTRO.AI** — współtworzyłem platformę edukacyjną o sztucznej inteligencji. Pracowałem przy pomyśle, rozmowach z praktykami, produkcie i sprzedaży.
+- **Chat Heroes** — współtworzyłem aplikację, która tworzyła bota dopasowanego do ucznia i prowadziła go przez materiał szkolny. Za technologię odpowiadałem w pięcioosobowym zespole.
+- **BitBrains** — zbudowaliśmy narzędzie zamieniające notatki studentów w fiszki. To był mój pierwszy projekt i pierwsze przychody.
 
-## Poza kodem
+## Poza pracą
 
 Biegam maratony i ultra. Zacząłem, żeby schudnąć; zostało ze mną na dłużej.
 
