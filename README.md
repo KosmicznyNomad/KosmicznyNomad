@@ -16,4 +16,4 @@ Biegam maratony i ultra. Zacząłem, żeby schudnąć; zostało ze mną na dłu�
 
 ## Kontakt
 
-[Portfolio](https://kosma-zalewski-portfolio.kosma-komunikacja.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/kosmazalewski)
+[Portfolio](https://kosma.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/kosmazalewski)
